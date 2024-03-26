@@ -1,0 +1,14 @@
+E:\visual studio\nova domashna\razklashtane\bin\Debug\net8.0\razklashtane.exe
+E:\visual studio\nova domashna\razklashtane\bin\Debug\net8.0\razklashtane.deps.json
+E:\visual studio\nova domashna\razklashtane\bin\Debug\net8.0\razklashtane.runtimeconfig.json
+E:\visual studio\nova domashna\razklashtane\bin\Debug\net8.0\razklashtane.dll
+E:\visual studio\nova domashna\razklashtane\bin\Debug\net8.0\razklashtane.pdb
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\razklashtane.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\razklashtane.AssemblyInfoInputs.cache
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\razklashtane.AssemblyInfo.cs
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\razklashtane.csproj.CoreCompileInputs.cache
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\razklashtane.dll
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\refint\razklashtane.dll
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\razklashtane.pdb
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\razklashtane.genruntimeconfig.cache
+E:\visual studio\nova domashna\razklashtane\obj\Debug\net8.0\ref\razklashtane.dll
